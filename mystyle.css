@@ -27,8 +27,8 @@ body {
 /* The card */
 .card {
   position: relative;
-  height: 450px;
-  width: 900px;
+  height: 395px;
+  width: 810px;
   margin: 200px auto;
   background-color: #FFF;
   -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
@@ -43,7 +43,7 @@ body {
   left: 30px;
   top: -30px;
   height: 320px;
-  width: 530px;
+  width: 330px;
   -webkit-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
@@ -65,7 +65,7 @@ img.left {
 
 /* Right side of the card */
 .right {
-  margin-left: 590px;
+  margin-left: 400px;
   margin-right: 20px;
 }
 
@@ -112,7 +112,7 @@ p {
 /* DATE of release*/
 h5 {
   position: absolute;
-  left: 30px;
+  left: 680px;
   bottom: -120px;
   font-size: 6rem;
   color: #C3C3C3;
@@ -120,7 +120,7 @@ h5 {
 
 h6 {
   position: absolute;
-  left: 30px;
+  left: 645px;
   bottom: -55px;
   font-size: 2rem;
   color: #C3C3C3;
@@ -128,7 +128,7 @@ h6 {
 
 /* Those futur buttons */
 ul {
-  margin-left: 555px;
+  margin-left: 360px;
 }
 
 li {
